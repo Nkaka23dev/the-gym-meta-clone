@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
-@tailwind utilities;
+@tailwind utilities; 
+
+.arr-w {
+    @apply h-4 mt-2 text-gray-900 font-bold
+} 
+.menu__item {
+    @apply  text-slate-900 font-normal;
+}
+.s_text {
+    @apply text-5xl font-normal tracking-wider text-gray-900
+}
+.s_text-2 {
+    @apply text-4xl font-semibold tracking-wider text-gray-900
+}
