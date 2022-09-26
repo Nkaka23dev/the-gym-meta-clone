@@ -12,5 +12,11 @@
     @apply text-5xl font-normal tracking-wider text-gray-900
 }
 .s_text-2 {
-    @apply text-4xl font-semibold tracking-wider text-gray-900
+    @apply text-4xl font-semibold tracking-wider text-gray-700
+}
+.s_text-3 {
+    @apply text-3xl font-semibold tracking-wider text-gray-900
+}
+.s_text-4 {
+    @apply text-center text-3xl tracking-widest font-semibold text-gray-900
 }
